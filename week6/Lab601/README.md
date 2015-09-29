@@ -30,7 +30,7 @@ from the provided C# source code.
 	- Result.
 		![rest]()
 	- Main function.
-		![mn]()
+		![mn](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/mn.JPG)
 	- Snippet C# Code.
-		![snip1]()
-		![snip2]()
+		![snip1](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/snip1.JPG)
+		![snip2](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/snip2.JPG)
