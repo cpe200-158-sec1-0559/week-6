@@ -13,6 +13,7 @@ from the provided C# source code.
   - Show the main function and snippet of C# code that is related to the process.
 
 1. A class diagram of the original source code
+
 	![bfdi](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/LAB601BF.jpg)
 
 2. Explaination.
@@ -26,11 +27,16 @@ from the provided C# source code.
 3. Explanation.
 	To include an "an asian herbivore and an asian carnivore", we must add AsianFactory class for implement to ContinentFactory like AfricaFactory and AmericaFactory.
 	- Class diagram of the program after including the new requirment.
+
 		![afdi](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/LAB602AF.jpg)
+
 	- Result.
 		![rest]()
 	- Main function.
+
 		![mn](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/mn.JPG)
 	- Snippet C# Code.
+
 		![snip1](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/snip1.JPG)
+
 		![snip2](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/snip2.JPG)
