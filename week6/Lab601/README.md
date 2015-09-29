@@ -13,7 +13,7 @@ from the provided C# source code.
   - Show the main function and snippet of C# code that is related to the process.
 
 1. A class diagram of the original source code
-	![bfdi]()
+	![bfdi](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/LAB601BF.jpg)
 
 2. Explaination.
 	It's base on ABSTRACT FACTORY under CREATIONAL PATTERNS because it provide an interface for creating several families AND these families has a relationship between them. 
