@@ -26,7 +26,7 @@ from the provided C# source code.
 3. Explanation.
 	To include an "an asian herbivore and an asian carnivore", we must add AsianFactory class for implement to ContinentFactory like AfricaFactory and AmericaFactory.
 	- Class diagram of the program after including the new requirment.
-		![afdi]()
+		![afdi](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/LAB602AF.jpg)
 	- Result.
 		![rest]()
 	- Main function.
