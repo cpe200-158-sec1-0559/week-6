@@ -30,4 +30,49 @@ from the provided C# source code.
 	- Result.
 		![rest]()
 	- Main function.
-		
+
+		public static void main()
+		{
+		  ContinentFactory asian = new AsianFactory();
+		  AnimalWorld world = new AnimalWorld(asian);
+		  world.RunFoodChain();
+
+		  ContinentFactory africa = new AfricaFactory();
+		  AnimalWorld world = new AnimalWorld(africa);
+		  world.RunFoodChain();
+ 
+		  ContinentFactory america = new AmericaFactory();
+		  world = new AnimalWorld(america);
+		  world.RunFoodChain();
+ 
+		  // Wait for user input
+		  Console.ReadKey();
+		}
+
+	- Snippet C# Code.
+
+		class AsianFactory : ContinentFactory
+		{
+			public override Herbivore CreateHerbivore()
+			{
+				return new Worm();
+			}
+			public override Carnivore CreateCarnivore()
+			{
+				return new Bird();
+			}
+		}
+
+		class Worm : Herbivore
+		{
+		}
+
+		class Bird : Carnivore
+		{
+			public override void Eat(Herbivore h)
+			{
+				// Eat Worm
+				Console.WriteLine(this.GetType().Name +
+				  " eats " + h.GetType().Name);
+			}
+		}
