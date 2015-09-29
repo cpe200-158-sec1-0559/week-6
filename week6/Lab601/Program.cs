@@ -11,7 +11,7 @@ namespace Lab601
       world.RunFoodChain();
 
       ContinentFactory africa = new AfricaFactory();
-      AnimalWorld world = new AnimalWorld(africa);
+      world = new AnimalWorld(africa);
       world.RunFoodChain();
  
       ContinentFactory america = new AmericaFactory();
