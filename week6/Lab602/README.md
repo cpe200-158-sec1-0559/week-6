@@ -10,7 +10,7 @@ from the provided C# program.
 
 1. A class diagram of the original source code.
 
-	![diag]()
+	![diag](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab602/LAB602.jpg)
 
 2. Explanation.
 	
