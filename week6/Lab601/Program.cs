@@ -4,7 +4,7 @@ namespace Lab601
 {
   class MainApp
   {
-    public static void main()
+    public static void Main()
     {
       ContinentFactory asian = new AsianFactory();
       AnimalWorld world = new AnimalWorld(asian);
