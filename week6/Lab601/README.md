@@ -38,7 +38,7 @@ from the provided C# source code.
 		![afdi](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/LAB602AF.jpg)
 
 	- Result.
-		![rest]()
+		![rest](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/res.JPG)
 	- Main function.
 
 		![mn](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/mnfn.JPG)
