@@ -41,7 +41,7 @@ from the provided C# source code.
 		![rest]()
 	- Main function.
 
-		![mn](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/main.JPG)
+		![mn](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/mnfn.JPG)
 	- Snippet C# Code.
 
 		![snip1](https://raw.githubusercontent.com/cpe200-158-sec1-0559/week-6/master/week6/Lab601/snip1.JPG)
